@@ -6,7 +6,8 @@ using the Backtracking algorithm.
 Possibly implement additional algorithms to improve running time in comparison to the Backtracking algorithm.
 
 # Instructions / Hot Keys
-<h4> Input your board by clicking the 'Input' button. Then after finished inputting a valid Sudoku board, hit the 'Solve' button </h4>
+<h4> Input your board by clicking the 'Input Board' button. Then after finished inputting a valid Sudoku board, hit the 'Solve' button.
+Input grid follows the displayed board respectively. </h4>
 
 # Demonstration #
 ## Example Board and Solve
